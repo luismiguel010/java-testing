@@ -1,3 +1,3 @@
 # java-testing
 
-Code from Platzi course _Curso Básico de Testing en Java_.
+Code from Platzi _Curso Básico de Testing en Java_.
